@@ -44,7 +44,7 @@ svg {
   transition: all .5s ease;
 }
 
-.is-pressed path{
+.is-pressed path {
   animation: liner 1s forwards;
 }
 
@@ -63,7 +63,6 @@ svg {
 .engage is-engage {
   transition: all .5s ease;
 }
-
 
 .is-engage path:nth-child(1) {
   fill: #f60;
