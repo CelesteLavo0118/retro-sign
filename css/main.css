@@ -61,7 +61,7 @@ svg {
 }
 
 .engage is-engage {
-  transition: all .5 ease;
+  transition: all .5s ease;
 }
 
 
